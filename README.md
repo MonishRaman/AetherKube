@@ -48,6 +48,8 @@ AetherKube provides a futuristic and intuitive UI featuring:
 - Gamified badges and achievements
 - Carbon impact meters and cloud insights
 
+  https://aetherkube.netlify.app/
+
 ---
 
 ## 🛠️ Tech Stack
